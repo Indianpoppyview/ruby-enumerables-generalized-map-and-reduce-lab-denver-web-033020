@@ -2,4 +2,5 @@
 def map(s)
   new = []
   i = 0 
-  while i < s.length do 
+  while i < s.length
+  new.push
