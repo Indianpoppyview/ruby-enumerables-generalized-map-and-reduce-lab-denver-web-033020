@@ -1,2 +1,3 @@
 # Your Code Here
-def maps 
+def map(s)
+  
